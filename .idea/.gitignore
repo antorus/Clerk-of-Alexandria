@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+*.iws
+*.class
+bin/
+build/
+/bin1/
+java/build/**
+log/
+target/
+*.properties
